@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-m-ponce/) 
 [![Github Badge](https://img.shields.io/badge/-rockop11-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/rockop11)
 [![Mail Badge](https://img.shields.io/badge/-poncerodrigom-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:poncerodrigom@gmail.com)
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='190'>
 
 <!--
 Here are some ideas to get you started:
