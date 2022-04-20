@@ -1,4 +1,4 @@
-# Hi there 👋, im Rodrigo Ponce
+# Hi there 👋, im Rodrigo Ponce || RockoP11
 
 ### Argentinian Full Stack Developer
 
@@ -24,3 +24,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
+
+<hr>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rockop11&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockop11&layout=compact&theme=tokyonight"/>
+</p>
