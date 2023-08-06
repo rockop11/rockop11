@@ -9,7 +9,7 @@
 <hr>
 
 ### I'm currently working as:
-- Front-End developer at "Casa de Moneda Argentina"
+- Front-End developer at "S.E. Casa de Moneda Argentina"
 
 ### My previous IT jobs were: 
 - Teacher at "Digital House S.A."
