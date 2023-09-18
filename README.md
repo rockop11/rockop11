@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
+![mongoDB](https://img.shields.io/badge/-mongodb-FFF?style=for-the-badge&logo=mongodb&logoColor=#116149)
 ![Firebase](https://img.shields.io/badge/-Firebase-0396de?style=for-the-badge&logo=Firebase&logoColor=f5820c)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/-jwt-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
