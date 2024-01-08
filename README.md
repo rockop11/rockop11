@@ -9,11 +9,12 @@
 <hr>
 
 ### I'm currently working as:
-- Front-End developer at "S.E. Casa de Moneda Argentina"
+Front-end and Mobile Develope with React JS & Expo.
 
 ### My previous IT jobs were: 
 - Teacher at "Digital House S.A."
-- Front-End developer at "IHSA Emergencias"
+- Front-end developer at "IHSA Emergencias"
+- Front-end developer at "S.E. Casa de Moneda Argentina"
 
 <hr>
 
