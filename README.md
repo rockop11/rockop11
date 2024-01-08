@@ -9,7 +9,7 @@
 <hr>
 
 ### I'm currently working as:
-Front-end and Mobile Develope with React JS & Expo.
+Front-end and Mobile Developer with React JS & Expo.
 
 ### My previous IT jobs were: 
 - Teacher at "Digital House S.A."
