@@ -9,7 +9,7 @@
 <hr>
 
 ### I'm currently working as:
-Front-end and Mobile Developer with React JS & Expo at "T-Soft"
+Front-end Developer at "T-Soft"
 
 ### My previous IT jobs were: 
 - Teacher at "Digital House S.A."
