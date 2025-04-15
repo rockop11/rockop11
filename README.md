@@ -31,6 +31,7 @@ Front-end and Mobile Developer with React JS & Expo at "T-Soft"
 ![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Next.js](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Jest](https://img.shields.io/badge/-jest-c21325?style=for-the-badge&logo=jest&logoColor=fff)
 ![Expo](https://img.shields.io/badge/Expo-fff?style=for-the-badge&logo=expo&logoColor=4630eb)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
