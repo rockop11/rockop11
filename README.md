@@ -16,6 +16,12 @@ Front-end Developer at "T-Soft"
 - Front-end developer at "IHSA Emergencias"
 - Front-end developer at "S.E. Casa de Moneda Argentina"
 
+### My contribution to the community - NPM Packages.
+
+![id-generator](https://www.npmjs.com/package/rp11-id-generator)
+![use-localstorage](https://www.npmjs.com/package/lib-uselocalstorage)
+
+
 <hr>
 
 **Languages, Frameworks and Tools:** &nbsp;
