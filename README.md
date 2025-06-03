@@ -18,8 +18,9 @@ Front-end Developer at "T-Soft"
 
 ### My contribution to the community - NPM Packages.
 
-![https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fafafa](https://www.npmjs.com/package/rp11-id-generator)  
-![https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fafafa](https://www.npmjs.com/package/lib-uselocalstorage)
+[![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fafafa)](https://www.npmjs.com/package/rp11-id-generator)  
+
+[![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fafafa)](https://www.npmjs.com/package/lib-uselocalstorage)
 
 
 <hr>
