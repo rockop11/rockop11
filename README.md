@@ -9,12 +9,13 @@
 <hr>
 
 ### I'm currently working as:
-Front-end Developer at "T-Soft"
+Front-end Developer SSR. at "T-Soft"
 
 ### My previous IT jobs were: 
 - Teacher at "Digital House S.A."
 - Front-end developer at "IHSA Emergencias"
 - Front-end developer at "S.E. Casa de Moneda Argentina"
+- Front-end developer at "NIUCORE"
 
 ### My contribution to the community - NPM Packages.
 
