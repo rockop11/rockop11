@@ -1,6 +1,6 @@
 # Hi there 👋, im Rodrigo Ponce || RockoP11
 
-### Full Stack Developer
+## Frontend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-m-ponce/)
 [![Github Badge](<https://img.shields.io/badge/-rockop11-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white>)](https://github.com/rockop11)
